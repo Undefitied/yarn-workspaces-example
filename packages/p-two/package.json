@@ -1,0 +1,12 @@
+{
+  "name": "p-two",
+  "description": "...",
+  "version": "1.0.0",
+  "license": "...",
+  "main": "index.js",
+  "browser": "...",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "pretty-format": "^20.0.3"
+  }
+}
